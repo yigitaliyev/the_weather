@@ -112,6 +112,7 @@ const Wrapper = styled.div`
       width: 100%;
       background-color: antiquewhite;
       border: 1px solid red;
+      min-height: 100vh;
      .city-container{
          width: 500px;
          height: 400px;
